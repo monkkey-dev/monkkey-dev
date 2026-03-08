@@ -6,7 +6,6 @@ Hi, I'm **Monkkey** 👋
 🎓 Starting a **Multiplatform Application Development** program.  
 ⚙️ Interested in **automation, developer tools, and modern infrastructure**.
 
----
 
 ## 🚀 Currently
 
@@ -14,7 +13,7 @@ Hi, I'm **Monkkey** 👋
 - Exploring **backend development and APIs**
 - Building **small tools and automations**
 
----
+
 
 ## 🛠️ Technologies I'm Exploring
 
@@ -23,7 +22,7 @@ Hi, I'm **Monkkey** 👋
 - **Docker**
 - **Git & GitHub**
 
----
+
 
 ## 🎯 Goals
 
